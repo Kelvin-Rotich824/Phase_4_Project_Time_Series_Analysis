@@ -1,3 +1,6 @@
+## TIME SERIES MODELING FOR ZILLOW REAL ESTATE PRICES.
+![Alt text](https://www.bis.org/img/featureimg/pp_residential_2111.jpg)
+
 ## Problem Statement
 To develop a time series model that can be used to predict and help determine the top five zip codes in which to invest.
 
@@ -44,11 +47,11 @@ Here we will work on data cleaning, handling missing values, data transformation
 ## 2. Exploratory Data Analysis (EDA)
 Here we will explore the different features of the dataset to gain a better understanding of the data. We will use data vizualization to uncover trends and patterns. We will use Feature Engineering to create new features from existing ones and perform One-Hot Encoding on categorical variables that we will require for analysis.
 
-# 2.1 Univariate Analysis
+### 2.1 Univariate Analysis
 ![Alt text](image.png)
 From the histogram above we can conclude that the distribution is positively skewed meaning a majority of the observations have lower ROI values, while a smaller number of observations have higher ROI values, leading to a rightward tail in the distribution.
 
-# 2.3 Bivariate Analysis
+### 2.3 Bivariate Analysis
 From the bar graph we can conclude the Region with  Zip code 11211 located in New York State had the highest Return on Investment.
 ![Alt text](image-1.png)
 
@@ -67,8 +70,8 @@ The graph below shows the relationship between the Return on Investment and the 
 |Name     |  GitHub   |
 |---------|-----------------|
 |Kelvin Rotich |https://github.com/Kelvin-Rotich824|
-|Crystal Wanjiru |https://github.com/|
+|Crystal Wanjiru |https://github.com/CrystalW123|
 |Miriam Nguru |https://github.com/|
-|Celiajoy Omiah |https://github.com/|
-|Paul Mbugua |https://github.com/|
+|Celiajoy Omiah |https://github.com/celiahjoyomiah|
+|Paul Mbugua |https://github.com/Paulwaweru|
 |Stephen Butiya |https://github.com/obystephen|
