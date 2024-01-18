@@ -58,13 +58,9 @@ From the bar graph we can conclude the Region with  Zip code 11211 located in Ne
 The graph below shows the relationship between the Return on Investment and the Different cities provided. We can therefore conclude that New York City has the highest Return on Investment followed by Jersey  City, Wainscott, Amagansett, Hartsel, Los Angeles and  Washington with lowest Return on Investment.
 ![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/image-2.png)
 
-## 3. Modeling
-
-
+## 3. Modelling
 ## 4. Evaluation
-
 ## 5. Conclusion
-
 
 ## Contributors:
 |Name     |  GitHub   |
