@@ -2,15 +2,11 @@ import streamlit as st
 import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
 import joblib
-import os
 # Load the saved model
-model_directory = "https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis"
-model_filename = "my_arima_model.pkl"
-model_path = os.path.join(model_directory, model_filename)
-model = joblib.load(model_path)
+model = joblib.load("arima_model.pkl")
 
 # Load your time-series data
-df = pd.read_csv("https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/zillow_data.csv")
+df = pd.read_csv("zillow_data.csv")
 
 def melt_data(df):
     """
