@@ -2,11 +2,22 @@ import streamlit as st
 import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
 import joblib
-# Load the saved model
-model = joblib.load("arima_model.pkl")
+import pathlib
 
-# Load your time-series data
-df = pd.read_csv("zillow_data.csv")
+# Set the root directory of your GitHub repository
+repo_root = pathlib.Path(__file__).parent.resolve()
+
+# Define the paths to your CSV file and joblib file
+csv_file_path = repo_root / "https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis" / "zillow_data.csv"
+joblib_file_path = repo_root / "https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis" / "arima_model.pkl"
+
+# Load the CSV file
+df = pd.read_csv(csv_file_path)
+
+# Load the joblib file
+model = load(joblib_file_path)
+
+# Load the saved model
 
 def melt_data(df):
     """
