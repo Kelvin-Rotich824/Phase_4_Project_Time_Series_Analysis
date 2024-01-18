@@ -2,14 +2,16 @@ import streamlit as st
 import pandas as pd
 from prophet import Prophet
 import joblib
+
 # Load your time-series data
-df = pd.read_csv("zillow_data")
+df = pd.read_csv("zillow_data.csv")
+
 def melt_data(df):
     """
     Takes the zillow_data dataset in wide form or a subset of the zillow_dataset.  
     Returns a long-form datetime dataframe 
     with the datetime column names as the index and the values as the 'values' column.
-    
+
     If more than one row is passes in the wide-form dataset, the values column
     will be the mean of the values from the datetime columns in all of the rows.
     """
@@ -58,3 +60,7 @@ st.write(fig)
 # Display forecast data
 st.subheader("Forecast Table")
 st.write(forecast_data)
+
+# Display interactive line chart
+st.subheader("Interactive Forecast Chart")
+st.line_chart(forecast_data)
