@@ -1,5 +1,5 @@
 ## TIME SERIES MODELING FOR ZILLOW REAL ESTATE PRICES.
-![Alt text](https://www.bis.org/img/featureimg/pp_residential_2111.jpg)
+![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/pp_residential_2111.jpg)
 
 ## Problem Statement
 To develop a time series model that can be used to predict and help determine the top five zip codes in which to invest.
