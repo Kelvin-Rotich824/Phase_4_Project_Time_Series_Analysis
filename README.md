@@ -1,5 +1,5 @@
 ## TIME SERIES MODELING FOR ZILLOW REAL ESTATE PRICES.
-![Alt text](https://www.bis.org/img/featureimg/pp_residential_2111.jpg)
+![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/pp_residential_2111.jpg)
 
 ## Problem Statement
 To develop a time series model that can be used to predict and help determine the top five zip codes in which to invest.
@@ -48,15 +48,15 @@ Here we will work on data cleaning, handling missing values, data transformation
 Here we will explore the different features of the dataset to gain a better understanding of the data. We will use data vizualization to uncover trends and patterns. We will use Feature Engineering to create new features from existing ones and perform One-Hot Encoding on categorical variables that we will require for analysis.
 
 ### 2.1 Univariate Analysis
-![Alt text](image.png)
+![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/image.png)
 From the histogram above we can conclude that the distribution is positively skewed meaning a majority of the observations have lower ROI values, while a smaller number of observations have higher ROI values, leading to a rightward tail in the distribution.
 
 ### 2.3 Bivariate Analysis
 From the bar graph we can conclude the Region with  Zip code 11211 located in New York State had the highest Return on Investment.
-![Alt text](image-1.png)
+![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/image-1.png)
 
 The graph below shows the relationship between the Return on Investment and the Different cities provided. We can therefore conclude that New York City has the highest Return on Investment followed by Jersey  City, Wainscott, Amagansett, Hartsel, Los Angeles and  Washington with lowest Return on Investment.
-![Alt text](image-2.png)
+![Alt text](https://github.com/Kelvin-Rotich824/Phase_4_Project_Time_Series_Analysis/blob/master/Images/image-2.png)
 
 ## 3. Modeling
 
