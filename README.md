@@ -127,7 +127,7 @@ From the above project, we met our objectives as follows:
 |---------|-----------------|
 |Kelvin Rotich |https://github.com/Kelvin-Rotich824|
 |Crystal Wanjiru |https://github.com/CrystalW123|
-|Miriam Nguru |https://github.com/|miriamnguru|
+|Miriam Nguru |https://github.com/miriamnguru|
 |Celiajoy Omiah |https://github.com/celiahjoyomiah|
 |Paul Mbugua |https://github.com/Paulwaweru|
 |Stephen Butiya |https://github.com/obystephen|
