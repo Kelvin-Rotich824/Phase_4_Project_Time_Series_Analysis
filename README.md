@@ -102,19 +102,19 @@ From the above project, we met our objectives as follows:
 1. The best zipcodes to invest based on ROI were:
     i.	11211 – Brooklyn, New York
     ii.	11222 – Brooklyn, New York
-    iii.	11216 – Brooklyn, New York
+    iii. 11216 – Brooklyn, New York
     iv.	7302 – Jersey City, New Jersey
     v.	11215 – Brooklyn, New York
-	The best cities to invest in were:
+   The best cities to invest in were:
     i.	New York
     ii.	New Jersey
-    iii.	Winscott
+    iii. Winscott
     iv.	Amagansett
     v.	Hartsel
   The best states to invest were:
     i.	New York
     ii.	New Jersey
-    iii.	Colorado
+    iii. Colorado
     iv.	California
     v.	Washington DC
 
