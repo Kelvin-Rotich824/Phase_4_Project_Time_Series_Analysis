@@ -104,19 +104,19 @@ From the above project, we met our objectives as follows:
     ii.	11222 – Brooklyn, New York
     iii. 11216 – Brooklyn, New York
     iv.	7302 – Jersey City, New Jersey
-    v.	11215 – Brooklyn, New York
+    v.	11215 – Brooklyn, New York.
    The best cities to invest in were:
     i.	New York
     ii.	New Jersey
     iii. Winscott
     iv.	Amagansett
-    v.	Hartsel
+    v.	Hartsel.
   The best states to invest were:
     i.	New York
     ii.	New Jersey
     iii. Colorado
     iv.	California
-    v.	Washington DC
+    v.	Washington DC.
 
 2. We also noted that the real estate prices had an upward trend, meaning that the value increased over time, although there was no clear way to determine the best time to enter the market as the data was non-stationary. 
 
