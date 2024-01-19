@@ -102,21 +102,21 @@ From the above project, we met our objectives as follows:
 1. The best zipcodes to invest based on ROI were:
     i.	11211 – Brooklyn, New York
     ii.	11222 – Brooklyn, New York
-    iii.	11216 – Brooklyn, New York
+    iii. 11216 – Brooklyn, New York
     iv.	7302 – Jersey City, New Jersey
-    v.	11215 – Brooklyn, New York
-	The best cities to invest in were:
+    v.	11215 – Brooklyn, New York.
+   The best cities to invest in were:
     i.	New York
     ii.	New Jersey
-    iii.	Winscott
+    iii. Winscott
     iv.	Amagansett
-    v.	Hartsel
+    v.	Hartsel.
   The best states to invest were:
     i.	New York
     ii.	New Jersey
-    iii.	Colorado
+    iii. Colorado
     iv.	California
-    v.	Washington DC
+    v.	Washington DC.
 
 2. We also noted that the real estate prices had an upward trend, meaning that the value increased over time, although there was no clear way to determine the best time to enter the market as the data was non-stationary. 
 
@@ -127,7 +127,7 @@ From the above project, we met our objectives as follows:
 |---------|-----------------|
 |Kelvin Rotich |https://github.com/Kelvin-Rotich824|
 |Crystal Wanjiru |https://github.com/CrystalW123|
-|Miriam Nguru |https://github.com/|
+|Miriam Nguru |https://github.com/miriamnguru|
 |Celiajoy Omiah |https://github.com/celiahjoyomiah|
 |Paul Mbugua |https://github.com/Paulwaweru|
 |Stephen Butiya |https://github.com/obystephen|
